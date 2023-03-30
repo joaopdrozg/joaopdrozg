@@ -1,5 +1,8 @@
 # 💫 About Me:
-Atualmente estou cursando Gestão da Tecnologia da Informação pelo Instituto Federal de Santa Catarina - IFSC.<br>Estou focando meus estudos em desenvolvimento front-end.
+Olá! Me chamo João Pedro, sou estudande de Gestão de TI no Instituto Federal de Santa Catarina - IFSC.<br>
+Atualmente, estou focando meus estudos em desenvolvimento front-end utilizando HTML, CSS, JS e seus frameworks como React. <br>
+Para contatos, utilizo minhas redes sociais abaixo:
+
 
 
 ## 🌐 Socials:
