@@ -1,6 +1,7 @@
 # 💫 About Me:
 Olá! Me chamo João Pedro, sou estudande de Gestão de TI no Instituto Federal de Santa Catarina - IFSC.<br>
-Atualmente, estou focando meus estudos em desenvolvimento front-end utilizando HTML, CSS, JS e seus frameworks como React. <br>
+Atualmente, estou focando meus estudos em Data Science utilizando MySQL, PostgreSQL, Python e PowerBI.<br>
+Além disso, também possuo experiência no aprendizado de desenvolvimento front-end utilizando HTML, CSS, JS e seus frameworks como React. <br>
 Para contatos, utilizo minhas redes sociais abaixo:
 
 
